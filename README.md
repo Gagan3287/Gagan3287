@@ -76,18 +76,10 @@ print(Developer().motto())
 
 <div align="center">
 
-<a href="https://github.com/Gagan3287/Quill-AI">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gagan3287&repo=Quill-AI&show_owner=false&bg_color=09090B&title_color=A78BFA&icon_color=60A5FA&text_color=E4E4E7&border_color=312E81&border_radius=12" alt="Quill-AI"/>
-</a>
-<a href="https://github.com/Gagan3287/Coretxa-frontend">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gagan3287&repo=Coretxa-frontend&show_owner=false&bg_color=09090B&title_color=A78BFA&icon_color=60A5FA&text_color=E4E4E7&border_color=312E81&border_radius=12" alt="Cortexa"/>
-</a>
-<a href="https://github.com/Gagan3287/Student-Ai">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gagan3287&repo=Student-Ai&show_owner=false&bg_color=09090B&title_color=A78BFA&icon_color=60A5FA&text_color=E4E4E7&border_color=312E81&border_radius=12" alt="StudyMate AI"/>
-</a>
-<a href="https://github.com/Gagan3287/HomelyHubInternshipBatch8">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gagan3287&repo=HomelyHubInternshipBatch8&show_owner=false&bg_color=09090B&title_color=A78BFA&icon_color=60A5FA&text_color=E4E4E7&border_color=312E81&border_radius=12" alt="HomelyHub"/>
-</a>
+<a href="https://github.com/Gagan3287/Quill-AI"><img width="49%" src="assets/card-1.svg" alt="Quill-AI"/></a>
+<a href="https://github.com/Gagan3287/Coretxa-frontend"><img width="49%" src="assets/card-2.svg" alt="Cortexa"/></a>
+<a href="https://github.com/Gagan3287/Student-Ai"><img width="49%" src="assets/card-3.svg" alt="StudyMate AI"/></a>
+<a href="https://github.com/Gagan3287/HomelyHubInternshipBatch8"><img width="49%" src="assets/card-4.svg" alt="HomelyHub"/></a>
 
 </div>
 
@@ -97,8 +89,8 @@ print(Developer().motto())
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gagan3287&show_icons=true&hide_border=true&bg_color=09090B&title_color=A78BFA&icon_color=60A5FA&text_color=E4E4E7&ring_color=A78BFA&include_all_commits=true" alt="GitHub stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gagan3287&layout=compact&hide_border=true&bg_color=09090B&title_color=A78BFA&text_color=E4E4E7&langs_count=8" alt="Top languages"/>
+<img width="49%" src="assets/stats-card.svg" alt="GitHub stats"/>
+<img width="49%" src="assets/langs-card.svg" alt="Top languages"/>
 
 <img width="80%" src="https://streak-stats.demolab.com?user=Gagan3287&hide_border=true&background=09090B&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA&currStreakNum=E4E4E7&sideNums=E4E4E7&sideLabels=A78BFA&dates=A1A1AA" alt="GitHub streak"/>
 
@@ -110,7 +102,7 @@ print(Developer().motto())
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Gagan3287&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%" alt="GitHub trophies"/>
+<img src="assets/trophies.svg" width="100%" alt="Achievements"/>
 
 </div>
 
@@ -120,7 +112,7 @@ print(Developer().motto())
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gagan3287&bg_color=09090B&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&title_color=A78BFA" width="100%" alt="Contribution activity graph"/>
+<img src="assets/activity.svg" width="100%" alt="Contribution activity"/>
 
 <br/>
 
@@ -134,15 +126,9 @@ print(Developer().motto())
 
 <div align="center">
 
-<a href="https://github.com/Gagan3287">
-  <img src="https://img.shields.io/badge/GitHub-Gagan3287-09090B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/vengala-gagan-176a9433a">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:tejchandra100@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<a href="https://github.com/Gagan3287"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="56" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/vengala-gagan-176a9433a"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="56" alt="LinkedIn"/></a>
+<a href="mailto:tejchandra100@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="56" alt="Email"/></a>
 
 <br/><br/>
 

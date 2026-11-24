@@ -24,6 +24,18 @@
 
 ---
 
+### About
+
+**Vengala Gagan Chandra Tej** (also known as Gagan Vengala, GitHub username Gagan3287) is a Full Stack Developer and AI/ML student from Warangal, Telangana, India. He is a B.Tech Computer Science (AI & ML) student at SR University, Warangal, graduating in 2028.
+
+- Portfolio: [vengala-gagan.vercel.app](https://vengala-gagan.vercel.app)
+- Blog: [vengala-gagan.vercel.app/blog](https://vengala-gagan.vercel.app/blog)
+- Team lead of AyuLink, a low-cost offline patient monitoring system that won 1st Prize in the Health domain at Pragathi 2.0, SR University (October 2026)
+- Built VanSetu, a WebGIS decision support system, for Smart India Hackathon 2026 (selected in the college internal round)
+- Builds full-stack apps and AI systems with React, Next.js, Node.js, FastAPI, Python and PostgreSQL
+
+---
+
 ### `$ whoami`
 
 ```python
@@ -32,7 +44,9 @@ class Developer:
         self.name      = "Vengala Gagan Chandra Tej"
         self.username  = "Gagan3287"
         self.role      = "AI/ML & Full Stack Developer"
-        self.education = "Computer Science @ SR University"
+        self.education = "B.Tech CSE (AI & ML) @ SR University, Warangal"
+        self.location  = "Warangal, Telangana, India"
+        self.portfolio = "https://vengala-gagan.vercel.app"
         self.interests = ["AI", "Machine Learning", "Full Stack Development",
                           "IoT", "Building Real-World Solutions"]
         self.current_focus = [
@@ -54,19 +68,19 @@ print(Developer().motto())
 <div align="center">
 
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,html,css&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,html,css&theme=dark" alt="Languages: Python, Java, JavaScript, TypeScript, C, HTML, CSS"/>
 
 **Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs&theme=dark" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,threejs&theme=dark" alt="Frontend: React, Next.js, Tailwind CSS, Vite, Three.js"/>
 
 **Backend & Database**<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,supabase,firebase,postgres,mongodb&theme=dark" alt="Backend and databases"/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,supabase,firebase,postgres,mongodb&theme=dark" alt="Backend and databases: FastAPI, Node.js, Express, Supabase, Firebase, PostgreSQL, MongoDB"/>
 
 **AI / ML & Data**<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="AI and ML"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="AI and ML: PyTorch, TensorFlow, OpenCV"/>
 
 **Tools & Deployment**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode&theme=dark" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode&theme=dark" alt="Tools: Git, GitHub, Docker, Vercel, Linux, VS Code"/>
 
 </div>
 
@@ -82,6 +96,17 @@ print(Developer().motto())
 <a href="https://github.com/Gagan3287/HomelyHubInternshipBatch8"><img width="49%" src="assets/card-4.svg" alt="HomelyHub"/></a>
 
 </div>
+
+**Project details**
+
+- [AyuLink](https://vengala-gagan.vercel.app/projects/ayulink): low-cost offline patient monitoring system, 1st Prize in the Health domain at Pragathi 2.0, SR University
+- [VanSetu](https://vengala-gagan.vercel.app/projects/vansetu): AI-powered FRA Atlas and WebGIS decision support system for Smart India Hackathon 2026
+- [FedLearn Hub](https://vengala-gagan.vercel.app/projects/fedlearn-hub): federated learning in the browser with TensorFlow.js and FastAPI
+- [StudyMate AI](https://vengala-gagan.vercel.app/projects/studymate-ai): AI study and placement companion for engineering students ([source](https://github.com/Gagan3287/Student-Ai))
+- [Quill AI](https://vengala-gagan.vercel.app/projects/quill-ai): RAG-powered writing and research assistant ([source](https://github.com/Gagan3287/Quill-AI))
+- [HomelyHub](https://vengala-gagan.vercel.app/projects/homelyhub): AI-powered stay-booking platform built with the MERN stack ([source](https://github.com/Gagan3287/HomelyHubInternshipBatch8))
+- [SRU Lost & Found](https://vengala-gagan.vercel.app/projects/sru-lost-found): lost-and-found platform for SR University students
+- [Cortexa](https://github.com/Gagan3287/Coretxa-frontend): frontend repository
 
 ---
 
@@ -131,6 +156,10 @@ print(Developer().motto())
 <a href="mailto:tejchandra100@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="56" alt="Email"/></a>
 
 <br/><br/>
+
+[Portfolio](https://vengala-gagan.vercel.app) · [LinkedIn](https://www.linkedin.com/in/vengala-gagan-176a9433a/) · [LeetCode](https://leetcode.com/u/Vengala_Gagan/) · [Kaggle](https://www.kaggle.com/vengalagagan) · [Google Scholar](https://scholar.google.com/citations?user=zWMaXuMAAAAJ&hl=en) · [ResearchGate](https://www.researchgate.net/profile/Gagan-Vengala) · [Instagram](https://www.instagram.com/gagan_vengala/)
+
+<br/>
 
 *"Great things are built one commit at a time."*
 
